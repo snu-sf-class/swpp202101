@@ -5,7 +5,7 @@ Recommended setting:
 - HDD: More than 10GB free space
 - OS:
   - Windows (please install WSL: https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
-  - Linux
+  - Linux: Ubuntu
   - Mac OS
 
 If you think your computer isn't powerful to do this, ask TAs via mail to provide a laptop.
