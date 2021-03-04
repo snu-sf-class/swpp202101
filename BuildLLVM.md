@@ -24,10 +24,10 @@ git clone https://github.com/aqjune/llvmscript.git
 cd llvmscript
 
 # Let's clone LLVM source tree!
-# Please edit "src" attribute at examples/llvm.json to specify where to clone LLVM project
+# Please edit "src" attribute at examples/llvm-12.0.json to specify where to clone LLVM project
 python3 run.py clone --cfg examples/llvm-12.0.json
 
-# Finally, Build LLVM:
+# Finally, build LLVM:
 python3 run.py build --cfg examples/llvm-12.0.json --type relassert --core <# of cores to use>
 # --type:
 #   release: fast build, has no debug info
