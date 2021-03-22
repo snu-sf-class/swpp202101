@@ -18,3 +18,6 @@
   - There are some typos in [the assignment description](https://github.com/Sung-HwanLee/swpp202101-assn1/blob/master/README.md).
     See [this issue](https://github.com/Sung-HwanLee/swpp202101-assn1/issues/2) for the correction.
   - Submit to [eTL](http://etl.snu.ac.kr/mod/assign/view.php?id=1441775)
+
+- Mar.22: Assignment 2 is announced. Deadline is Mar. 31, 11:59PM.
+  See here: https://github.com/snu-sf-class/swpp202101/tree/master/practice/2.assn
