@@ -8,6 +8,8 @@
 
 ## Announcements 
 
+- Mar. 23: See [issue 9](https://github.com/snu-sf-class/swpp202101/issues/9) to see the list of references for LLVM.
+
 ## Projects
 
 ## Assignments
