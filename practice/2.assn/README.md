@@ -1,6 +1,6 @@
 ## Assignment 2
 
-### 1. Add an integer to pointers
+### 1. Add an integer
 
 Please fill `add` function at `add.ll` that does the following operation:
 
