@@ -9,6 +9,7 @@
 ## Announcements 
 
 - Mar. 23: See [issue 9](https://github.com/snu-sf-class/swpp202101/issues/9) to see the list of references for LLVM.
+- Mar. 24: [issue 7](https://github.com/snu-sf-class/swpp202101/issues/7) has links to Alive2 that verify correctness/incorrectness of the equality-propagating transformations.
 
 ## Projects
 
