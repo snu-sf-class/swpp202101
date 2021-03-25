@@ -1,0 +1,7 @@
+libHello.*
+libDump.*
+ubsan
+addrsan
+memsan
+containerchk
+.vscode
