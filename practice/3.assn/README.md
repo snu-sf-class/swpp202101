@@ -106,7 +106,7 @@ if (flag) {
 }
 ```
 
-BB1 should still be reported because there (syntactically) exists a path
+BB1 should not be reported because there (syntactically) exists a path
 from the entry to BB1.
 
 
