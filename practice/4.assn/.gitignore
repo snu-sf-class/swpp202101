@@ -1,0 +1,9 @@
+*.dylib
+*.dylib.dSYM
+lib*.so
+.vscode
+test.output.ll
+submit.tar.gz
+propinteq-sol.cpp
+out.*.ll
+.*.swp
