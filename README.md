@@ -13,6 +13,8 @@
 
 ## Projects
 
+- Apr. 13: Please submit your team: [issue 19](https://github.com/snu-sf-class/swpp202101/issues/19)
+
 ## Assignments
 
 - Mar. 12: Assignment 1 is announced. Deadline is Mar. 21, 11:59PM.
