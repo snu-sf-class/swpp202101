@@ -14,6 +14,7 @@
 ## Projects
 
 - Apr. 13: Please submit your team: [issue 19](https://github.com/snu-sf-class/swpp202101/issues/19)
+- Apr. 20: We share a link for one of the last year's team project repository: https://github.com/snu-sf-class/swpp202101/issues/25
 
 ## Assignments
 
