@@ -34,3 +34,7 @@
 - Apr. 9: Assignment 4 is announced. Deadline is Apr. 18, 11:59PM.
   See here: https://github.com/snu-sf-class/swpp202101/tree/master/practice/4.assn
   For Z3 installation, package manager may not work. Please see [issue 15](https://github.com/snu-sf-class/swpp202101/issues/15).
+
+- Apr. 22: Assignment 5 is announced. Deadine is Apr. 30, 11:59PM.
+  See here: https://github.com/snu-sf-class/swpp202101/tree/master/practice/5.assn
+  TA will send you mails containing the codes to review.
