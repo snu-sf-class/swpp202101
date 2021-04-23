@@ -17,6 +17,7 @@
 - Apr. 20: We share a link for one of the last year's team project repository: https://github.com/snu-sf-class/swpp202101/issues/25
 - Apr. 22: Each team will introduce themselves for 3~5 minutes next Wednesday: [issue 26](https://github.com/snu-sf-class/swpp202101/issues/26)
 - Apr. 22: Assembly specification is [announced](project/asmspec.pdf). Ask questions at [issue 27](https://github.com/snu-sf-class/swpp202101/issues/27) if any.
+- Apr. 23: See the [documentation](project/documentation.pdf) for documents you're going to write during the project. Ask questions at [issue 29](https://github.com/snu-sf-class/swpp202101/issues/29) if any.
 
 ## Assignments
 
