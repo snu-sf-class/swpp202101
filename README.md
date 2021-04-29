@@ -25,6 +25,7 @@
 - Apr. 29: Assembly specification is [updated](project/asmspec.pdf).
   - Several typos are fixed.
   - Initial register values are specified.
+- Apr. 29: We announce [the assembly interpreter](https://github.com/snu-sf-class/swpp202101-interpreter).
 
 
 ## Assignments
