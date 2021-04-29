@@ -22,6 +22,10 @@
   - The [benchmarks](https://github.com/snu-sf-class/swpp202101-benchmarks) for the team project is announced. Note that
     in the final competition TAs can add more test cases or programs.
   - The [list of useful LLVM optimizations](project/optList.md) is announced.
+- Apr. 29: Assembly specification is [updated](project/asmspec.pdf).
+  - Several typos are fixed.
+  - Initial register values are specified.
+
 
 ## Assignments
 
