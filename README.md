@@ -14,6 +14,19 @@
 ## Projects
 
 - Apr. 13: Please submit your team: [issue 19](https://github.com/snu-sf-class/swpp202101/issues/19)
+- Apr. 20: We share a link for one of the last year's team project repository: https://github.com/snu-sf-class/swpp202101/issues/25
+- Apr. 22: Each team will introduce themselves for 3~5 minutes next Wednesday: [issue 26](https://github.com/snu-sf-class/swpp202101/issues/26)
+- Apr. 22: Assembly specification is [announced](project/asmspec.pdf). Ask questions at [issue 27](https://github.com/snu-sf-class/swpp202101/issues/27) if any.
+- Apr. 23:
+  - See the [documentation](project/documentation.pdf) for documents you're going to write during the project. Ask questions at [issue 29](https://github.com/snu-sf-class/swpp202101/issues/29) if any.
+  - The [benchmarks](https://github.com/snu-sf-class/swpp202101-benchmarks) for the team project is announced. Note that
+    in the final competition TAs can add more test cases or programs.
+  - The [list of useful LLVM optimizations](project/optList.md) is announced.
+- Apr. 29: Assembly specification is [updated](project/asmspec.pdf).
+  - Several typos are fixed.
+  - Initial register values are specified.
+- Apr. 29: We announce [the assembly interpreter](https://github.com/snu-sf-class/swpp202101-interpreter) and [the project skeleton](https://github.com/snu-sf-class/swpp202101-compiler).
+
 
 ## Assignments
 
@@ -33,3 +46,7 @@
 - Apr. 9: Assignment 4 is announced. Deadline is Apr. 18, 11:59PM.
   See here: https://github.com/snu-sf-class/swpp202101/tree/master/practice/4.assn
   For Z3 installation, package manager may not work. Please see [issue 15](https://github.com/snu-sf-class/swpp202101/issues/15).
+
+- Apr. 22: Assignment 5 is announced. Deadine is Apr. 30, 11:59PM.
+  See here: https://github.com/snu-sf-class/swpp202101/tree/master/practice/5.assn
+  TA will send you mails containing the codes to review.
