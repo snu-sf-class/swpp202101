@@ -28,7 +28,7 @@
   - Initial register values are specified.
 - Apr. 29: We announce [the assembly interpreter](https://github.com/snu-sf-class/swpp202101-interpreter) and [the project skeleton](https://github.com/snu-sf-class/swpp202101-compiler).
 - May. 4: You **must** set up continuous integration (CI) for your project.
-  - See [the slide on CI](practice/8.ci.pdf) for how to set up CI using GitHub Actions.
+  - See [the slide on CI](practice/ci.pdf) for how to set up CI using GitHub Actions.
   - We provide [a docker image](https://hub.docker.com/repository/docker/sunghwanlee/swpp202101-ci) for CI and [an example yml file](project/ci.yml).
 
 
