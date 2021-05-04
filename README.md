@@ -10,6 +10,7 @@
 
 - Mar. 23: See [issue 9](https://github.com/snu-sf-class/swpp202101/issues/9) to see the list of references for LLVM.
 - Mar. 24: [issue 7](https://github.com/snu-sf-class/swpp202101/issues/7) has links to Alive2 that verify correctness/incorrectness of the equality-propagating transformations.
+- May. 4: There will be no practice session from May 6 as the project started.
 
 ## Projects
 
@@ -26,6 +27,9 @@
   - Several typos are fixed.
   - Initial register values are specified.
 - Apr. 29: We announce [the assembly interpreter](https://github.com/snu-sf-class/swpp202101-interpreter) and [the project skeleton](https://github.com/snu-sf-class/swpp202101-compiler).
+- May. 4: You **must** set up continuous integration (CI) for your project.
+  - See [the slide on CI](practice/8.ci.pdf) for how to set up CI using GitHub Actions.
+  - We provide [a docker image](https://hub.docker.com/repository/docker/sunghwanlee/swpp202101-ci) for CI and [an example yml file](project/ci.yml).
 
 
 ## Assignments
