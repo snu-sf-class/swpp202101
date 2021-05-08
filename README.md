@@ -30,6 +30,7 @@
 - May. 4: You **must** set up continuous integration (CI) for your project.
   - See [the slide on CI](practice/ci.pdf) for how to set up CI using GitHub Actions.
   - We provide [a docker image](https://hub.docker.com/repository/docker/sunghwanlee/swpp202101-ci) for CI and [an example yml file](project/ci.yml).
+  - You don't have to create a pull request for setting up CI.
 
 
 ## Assignments
